@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on projects in web development and AI<br><br>👯 I’m looking to collaborate on open-source projects<br><br>🤝 I’m looking for help with advanced algorithms and coding challenges<br><br>🌱 I’m currently learning Japanese and advanced React techniques<br><br>💬 Ask me about DBMS, React, C++, or machine learning
+🚀 I’m passionate about solving complex problems and have tackled 800+ DSA challenges across LeetCode, Codeforces, and other platforms.
+<br><br>
+👯 I’m looking to collaborate on innovative open-source projects that push the boundaries of tech.
+<br><br>
+🤝 I’m looking for help with optimizing algorithms, improving system design, and mastering competitive programming techniques.
+<br><br>
+🌱 I’m currently learning Japanese 🇯🇵 and building expertise in advanced React & Next.js.
+<br><br>
+💬 Ask me about C++, React, DBMS, machine learning, or efficient problem-solving strategies.
+<br><br>
+🏆 Dedicated to clean code, scalable architectures, and creating impactful digital solutions.
 
 
 ## 🌐 Socials:
