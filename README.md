@@ -1,13 +1,9 @@
 # 💫 About Me:
 🚀 I’m passionate about solving complex problems and have tackled 800+ DSA challenges across LeetCode, Codeforces, and other platforms.
 <br><br>
-👯 I’m looking to collaborate on innovative open-source projects that push the boundaries of tech.
+🌱 I’m currently learning Japanese 🇯🇵 and building expertise in TypeScript, Next.js, and full-stack web development.
 <br><br>
-🤝 I’m looking for help with optimizing algorithms, improving system design, and mastering competitive programming techniques.
-<br><br>
-🌱 I’m currently learning Japanese 🇯🇵 and building expertise in advanced React & Next.js.
-<br><br>
-💬 Ask me about C++, React, DBMS, machine learning, or efficient problem-solving strategies.
+💬 I enjoy discussing scalable system design, and modern web development practices.
 <br><br>
 🏆 Dedicated to clean code, scalable architectures, and creating impactful digital solutions.
 
