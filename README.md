@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 I’m passionate about solving complex problems and have tackled 800+ DSA challenges across LeetCode, Codeforces, and other platforms.
 <br><br>
-🌱 I’m currently learning Japanese 🇯🇵 and building expertise in TypeScript, Next.js, and full-stack web development.
+🌱 I’m currently building expertise in TypeScript, Next.js, and full-stack web development.
 <br><br>
 💬 I enjoy discussing scalable system design, and modern web development practices.
 <br><br>
