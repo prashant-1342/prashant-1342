@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">B.Tech Software Engineering Student | Full Stack Learner | Problem Solver</h3>
 
 <p align="center">
   <a href="https://prashantpal.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/prashantpal11/" target="_blank">LinkedIn</a> •
-  <a href="mailto:prashantpal2024@gmail.com">Email</a> •
-  <a href="https://x.com/Prashant25741" target="_blank">Twitter</a>
+  <a href="mailto:prashantpal2024@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Solved **800+ DSA problems** across platforms  
-- 🌱 Currently focusing on **TypeScript, Next.js & Full Stack Development**  
-- 🧠 Interested in **System Design & Scalable Architectures**  
-- ⚡ Love building real-world impactful projects  
+- 🎓 B.Tech student in Software Engineering  
+- 💡 Solved **1000+ DSA problems** (LeetCode, Codeforces, etc.)  
+- 🌱 Currently learning **TypeScript, Next.js & Full Stack Development**  
+- 🧠 Interested in **System Design & scalable applications**  
+- ⚡ Passionate about building real-world projects  
 
 ---
 
@@ -48,14 +48,14 @@
 
 ---
 
-## 🔥 What I'm Working On
+## 🔥 What I'm Currently Doing
 
-- 🚀 Building scalable full-stack applications  
-- 📚 Improving problem-solving & competitive programming  
-- 🌐 Exploring system design patterns  
+- 🚀 Building full-stack projects  
+- 📚 Practicing DSA regularly  
+- 🌐 Learning system design concepts  
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ⭐ Always open to learning, collaborating, and growing
 </p>
