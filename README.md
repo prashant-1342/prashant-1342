@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student in Software Engineering (Delhi Technological University- DTU)
+- 🎓 B.Tech student in Software Engineering (Delhi Technological University - DTU)
 - 💡 Solved **1000+ DSA problems** (LeetCode, Codeforces, etc.)  
 - 🌱 Currently learning **TypeScript, Next.js & Full Stack Development**  
 - 🧠 Interested in **System Design & scalable applications**  
@@ -22,16 +22,19 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-`C++` `JavaScript` `TypeScript` `Python`
+`C` `C++` `JavaScript` `TypeScript` `SQL`
 
 **Frontend**  
-`React` `Next.js` `HTML` `CSS` `Bootstrap`
+`React` `Next.js` `HTML` `CSS` `Tailwind`
 
 **Backend**  
 `Node.js` `Express.js` `Socket.io`
 
-**Database & Tools**  
-`MongoDB` `MySQL` `Firebase` `Vercel` `Render` `Vite`
+**Database**  
+`MongoDB` `PostgreSQL` `Supabase`
+
+**Tools & Platforms**  
+`Vercel` `Render` `Firebase` `Vite`
 
 ---
 
