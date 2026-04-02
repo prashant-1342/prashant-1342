@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech student in Software Engineering  
+- 🎓 B.Tech student in Software Engineering (Delhi Technological University- DTU)
 - 💡 Solved **1000+ DSA problems** (LeetCode, Codeforces, etc.)  
 - 🌱 Currently learning **TypeScript, Next.js & Full Stack Development**  
 - 🧠 Interested in **System Design & scalable applications**  
