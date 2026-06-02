@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Prashant%20Pal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20DTU&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prashant+%F0%9F%91%8B;B.Tech+%40+DTU+%7C+Software+Engineering;Full+Stack+Developer+%F0%9F%9A%80;1000%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Always+building%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=B.Tech+%40+DTU+%7C+Software+Engineering;Full+Stack+Developer;1000%2B+DSA+Problems+Solved;Always+building%2C+always+learning" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
 <a href="https://prashantpal.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -37,8 +34,7 @@ const prashant = {
   degree     : "B.Tech — Software Engineering",
   dsa        : "1000+ problems solved (LeetCode · Codeforces)",
   learning   : ["TypeScript", "Next.js", "System Design"],
-  interests  : ["Full Stack Dev", "Scalable Systems", "Open Source"],
-  funFact    : "I debug faster with lo-fi music 🎧",
+  interests  : ["Full Stack Development", "Scalable Systems", "Open Source"],
 };
 ```
 
@@ -100,10 +96,6 @@ const prashant = {
   <img src="https://streak-stats.demolab.com/?user=prashant-1342&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-1342&theme=tokyo-night&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&hide_border=true" width="95%"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -111,15 +103,6 @@ const prashant = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prashant-1342&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
 </div>
-
----
-
-## 🔥 What I'm Currently Doing
-
-- 🚀 Building full-stack projects with **Next.js + TypeScript**
-- 📚 Grinding DSA — consistency is the key
-- 🧩 Exploring **System Design** and scalable architectures
-- 🤝 Open to **collaborations** and **open source contributions**
 
 ---
 
