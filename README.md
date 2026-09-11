@@ -95,14 +95,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-1342&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-1342&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ### Achievements
 - Hackathon Finalist — Top 20 at CodeForge Hackathon (2200+ participants)
